@@ -28,7 +28,7 @@ class _HomeTvPageState extends State<HomeTvPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Ditonton Tv Series'),
+        title: const Text('Tv Series'),
         actions: [
           IconButton(
             onPressed: () {
