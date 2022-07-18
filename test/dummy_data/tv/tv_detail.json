@@ -1,0 +1,30 @@
+{
+  "backdrop_path": "/wFzQsWiRCWfgSIqZ24tg5rBc4si.jpg",
+  "episode_run_time": [23],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1,
+  "in_production": false,
+  "languages": ["en"],
+  "last_air_date": "1999-05-24",
+  "name": "Moon Knight",
+  "next_episode_to_air": null,
+  "number_of_episodes": 164,
+  "number_of_seasons": 7,
+  "origin_country": ["US"],
+  "original_language": "en",
+  "original_name": "Moon Knight",
+  "overview": "Young, urban newlyweds Paul and Jamie Buchman try to sustain their marital bliss while sidestepping the hurdles of love in the '90s.",
+  "popularity": 22.786,
+  "poster_path": "/vvnslQjc1LnERuroGVh8bPdBi2r.jpg",
+  "status": "Returning Series",
+  "tagline": "Embrace the chaos.",
+  "type": "Miniseries",
+  "vote_average": 8.5,
+  "vote_count": 393
+}
