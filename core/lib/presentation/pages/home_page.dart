@@ -1,7 +1,5 @@
 import 'package:about/about.dart';
 import 'package:core/core.dart';
-import 'package:core/presentation/pages/search_page.dart';
-import 'package:core/presentation/pages/watchlist_page.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:movie/movie.dart';
 import 'package:tv/tv.dart';

@@ -1,4 +1,4 @@
-[![Codemagic build status](https://api.codemagic.io/apps/62bc0e14295ddc0fc3814d30/62c50a6d8ac5500396a51b02/status_badge.svg)](https://codemagic.io/apps/62bc0e14295ddc0fc3814d30/62c50a6d8ac5500396a51b02)
+[![Codemagic build status](https://api.codemagic.io/apps/62d49772b2128b0f8c2267d4/62d49772b2128b0f8c2267d3/status_badge.svg)](https://codemagic.io/apps/62d49772b2128b0f8c2267d4/62d49772b2128b0f8c2267d3/latest_build)
 
 # a199-flutter-expert-project
 

@@ -19,3 +19,9 @@ export 'data/models/genre_model.dart';
 // domain
 export 'domain/entities/genre.dart';
 
+//presentation
+export 'presentation/pages/home_page.dart';
+export 'presentation/pages/login_page.dart';
+export 'presentation/pages/search_page.dart';
+export 'presentation/pages/splashscreen.dart';
+export 'presentation/pages/watchlist_page.dart';

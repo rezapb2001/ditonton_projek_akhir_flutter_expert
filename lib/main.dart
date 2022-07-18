@@ -1,8 +1,5 @@
 import 'package:about/about.dart';
 import 'package:core/core.dart';
-import 'package:core/presentation/pages/home_page.dart';
-import 'package:core/presentation/pages/login_page.dart';
-import 'package:core/presentation/pages/splashscreen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -85,6 +82,10 @@ class MyApp extends StatelessWidget {
               return CupertinoPageRoute(builder: (_) => ScreenLogin());
             case HomePage.routeName:
               return MaterialPageRoute(builder: (_) => HomePage());
+            case SearchPage.routeName:
+              return MaterialPageRoute(builder: (_) => SearchPage());
+            case WatchlistPage.routeName:
+              return MaterialPageRoute(builder: (_) => WatchlistPage());
             case HomeTvPage.routeName:
               return CupertinoPageRoute(builder: (_) => HomeTvPage());
             case HomeMoviePage.routeName:
